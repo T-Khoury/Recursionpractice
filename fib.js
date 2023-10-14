@@ -17,3 +17,5 @@ function fibs(n) {
     
     return array
 }
+
+console.log(fibs(8));
